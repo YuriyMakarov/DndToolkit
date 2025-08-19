@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DndToolkit", "DndToolkit\DndToolkit.csproj", "{176484D5-EAA0-4874-83F5-2BB4118D1092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{ACD89067-6F1C-4DFC-B566-798976BFB9B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{176484D5-EAA0-4874-83F5-2BB4118D1092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{176484D5-EAA0-4874-83F5-2BB4118D1092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{176484D5-EAA0-4874-83F5-2BB4118D1092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACD89067-6F1C-4DFC-B566-798976BFB9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD89067-6F1C-4DFC-B566-798976BFB9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD89067-6F1C-4DFC-B566-798976BFB9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD89067-6F1C-4DFC-B566-798976BFB9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
